@@ -1,0 +1,65 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.5,
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "apc.stylesheet": {
+    ".title-actions": "display: none !important",
+    ".quick-input-widget.show-file-icons, .editor-widget.find-widget": "box-shadow: none !important",
+    ".filematch .monaco-icon-label:before, .custom-list-row.results .monaco-list-row .monaco-icon-label:before": "background-position: 0 bottom !important",
+    ".filematch .monaco-count-badge": "padding: 5px 6px 0 6px !important",
+    ".sidebar .title-label": "padding: 0 !important",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+    ".sidebar": "border: none !important",
+    ".quick-input-list-row div": "display: flex !important; align-items: center !important",
+    ".panel .composite.title": "visibility: hidden !important",
+    ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "padding-bottom: 6px !important",
+    ".sidebar .title-label h2": "line-height: 2.8 !important",
+    ".monaco-editor .scroll-decoration": "display: none !important",
+    ".monaco-scrollable-element > .shadow.top": "display: none !important"
+  },
+  "window.titleBarStyle": "native",
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset"
+  },
+  "apc.font.family": "DM Mono Medium",
+  "apc.listRow": {
+    "lists": [
+      "explorer-folders-view",
+      "quick-input-list",
+      "results"
+    ],
+    "height": 25
+  },
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Gruvbox in Black",
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "bottom",
+  "update.enableWindowsBackgroundUpdates": false,
+  "update.mode": "none",
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "extensions.ignoreRecommendations": true,
+  "window.customTitleBarVisibility": "never",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "react-native-tools.showUserTips": false,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "svelte.enable-ts-plugin": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
